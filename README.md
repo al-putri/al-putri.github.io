@@ -1,8 +1,6 @@
-# Link-in-bio al-putri.github.io
+# Link-in-bio https://al-putri.github.io/
 
-Link-in-bio for Craftzdog
 =========================
-
 https://al-putri.github.io/
 
 ## License
