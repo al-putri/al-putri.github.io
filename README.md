@@ -1,4 +1,5 @@
 # Link-in-bio https://al-putri.github.io/
+[![Gitter](https://badges.gitter.im/Link-Bio/sharelink.svg)](https://gitter.im/Link-Bio/sharelink?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## License
 
